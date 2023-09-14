@@ -3,10 +3,10 @@
 body{
     background-image: url(img/Wallpapers_LogonScreen_Veirano.jpg);
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     font-family: 'Roboto', sans-serif;
     background-attachment: fixed;
-    background-position: center center;
+    background-position: center;
 }
 
 h1{
