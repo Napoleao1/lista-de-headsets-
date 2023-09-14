@@ -6,7 +6,8 @@ body{
     background-size: cover;
     font-family: 'Roboto', sans-serif;
     background-attachment: fixed;
-    background-position: bottom;
+    background-position: center;
+    background-position-y: 20%;
     min-height: 100vh
 }
 
