@@ -6,7 +6,8 @@ body{
     background-size: cover;
     font-family: 'Roboto', sans-serif;
     background-attachment: fixed;
-    background-position: center;
+    background-position: bottom;
+    min-height: 100vh
 }
 
 h1{
