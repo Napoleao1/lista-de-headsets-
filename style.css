@@ -5,6 +5,8 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Roboto', sans-serif;
+    background-position: center center;
+    background-attachment: fixed;
 }
 
 h1{
