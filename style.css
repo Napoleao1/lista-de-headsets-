@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap');
+body{
+    background-image: url(img/Wallpapers_LogonScreen_Veirano.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    padding: 50px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+main  li {
+    color: white;
+    margin: 5px 0;
+    padding: 5px;
+    box-sizing: border-box;
+}
+ main ul li {
+    color: white;
+    margin-top: 20px;
+    text-decoration: none;
+    list-style-type: none;
+    padding-left: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    
+    box-sizing: border-box;
+}
+
+
+
+a {
+    color: white;
+    text-decoration: none;
+    
+}
+
+main ul li:hover{
+    color: black;
+}
+
+a:hover{
+    color: rgb(80, 54, 199);
+}
