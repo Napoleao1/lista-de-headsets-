@@ -11,7 +11,7 @@ body{
     font-family: 'Roboto', sans-serif;
     background-attachment: fixed;
     background-position: bottom;
-    background-position-y: 20%;
+  
     min-height: 100vh
 }
  menu{
